@@ -1,0 +1,5 @@
+foundry-local-sdk>=0.5
+openai>=1.30
+numpy>=1.26
+gradio>=4.30
+PyMuPDF>=1.24
